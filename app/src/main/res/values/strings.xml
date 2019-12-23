@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Inspiriobot</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="generate">Generate</string>
+    <string name="share">share</string>
+    <string name="save">save</string>
+    <string name="share_text">Share image via</string>
+    <string name="error">Something went wrong</string>
+    <string name="saved_items">Saved items</string>
+    <string name="save_quote">Save quote</string>
+    <string name="error_empty_field">Please fill in all the fields</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="christmas">Christmas</string>
+    <string name="mindfullness">Mindfullness</string>
+    <string name="start">Start</string>
+    <string name="mindmode">Mindfulness mode</string>
+    <string name="saveditems">Saved items</string>
+</resources>
